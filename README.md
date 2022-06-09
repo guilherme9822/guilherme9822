@@ -3,15 +3,18 @@
   
   
   
-- 🔭 Olá hoje esto cursando Analise e Desenvolvimento de Sistema indo pro segundo semestre.
+### 😎 Olá hoje esto cursando Analise e Desenvolvimento de Sistema indo pro segundo semestre.
   
   
   
-- 🌱 Conclui as materias de:
+### 📖 Conclui as materias de:
   
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ * INTRODUÇÃO À PROGRAMAÇÃO ESTRUTURADA EM C
+ * INTRODUÇÃO À SEGURANÇA DA INFORMAÇÃO
+ * FUNDAMENTOS DE REDES DE COMPUTADORES
+ * ARQUITETURA DE COMPUTADORES
   
-- 🤔 Estou começando a estudar:
+### 🤔 Estou começando a estudar:
   
   
   
@@ -21,11 +24,11 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
        
-- 💬 Procurando uma forma de melhorar minha esperiencia proficional.
+### 💬 Procurando uma forma de melhorar minha esperiencia proficional.
        
        
        
-- 📫 Estudante na Faculdade:
+### 📚 Estudante na Faculdade:
    *  ESTACIO
        
 
