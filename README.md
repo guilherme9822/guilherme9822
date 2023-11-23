@@ -3,7 +3,7 @@
   
   
   
-### 😎 Olá hoje esto cursando Analise e Desenvolvimento de Sistema indo pro segundo semestre.
+### 😎 Olá hoje esto cursando Analise e Desenvolvimento de Sistema indo pro quinto semestre.
   
   
   
