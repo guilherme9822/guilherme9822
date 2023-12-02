@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm José Guilherme</h1>
-<h3 align="center">🚀 About me - 🤔 Exploring new technologies and developing software solutions. - 🎓 Studying System Analysis and Development at <a href=" https://estacio.br " target="_blank">Estácio</a>.</h3>
+<h1 align="center">Hi 👋, I'm Jose Guilherme</h1>
+<h3 align="center">🚀 About me </h3>
+<p>- 🤔 Exploring new technologies and developing software solutions.</p>
+<p>- 🎓 Analysis and Systems Development na <a href="https://estacio.br" target="_blank">Estácio</a></p>
 
 - 💬 Ask me about **Python**
 
