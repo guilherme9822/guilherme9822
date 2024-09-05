@@ -3,7 +3,6 @@
 <p>- 🤔 Exploring new technologies and developing software solutions.</p>
 <p>- 🎓 Analysis and Systems Development na <a href="https://estacio.br" target="_blank">Estácio</a></p>
 
-- 💬 Ask me about **Python**
 
 - 📫 How to reach me **josegueedes12@hotmail.com**
 
